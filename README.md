@@ -7,11 +7,11 @@ A Website implemented using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack,
 
 1. Snapshot - 1
 
-![Screenshot 1](/snapshots/screenshot-1.png)
+![Screenshot 1]()
 
 2. Snapshot - 2
 
-![Screenshot 1](/snapshots/screenshot-2.png)
+![Screenshot 1]()
 
 ## Things to Download before you proceed
 I used the MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack for this project.
