@@ -7,7 +7,8 @@ A Website implemented using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack,
 
 1. Snapshot - 1
 
-![Screenshot 1]()
+![Screenshot 2022-02-08 213910](https://user-images.githubusercontent.com/94163693/153028658-2b83d34d-bea2-45e3-8d65-024cb93c34a9.png)
+
 
 2. Snapshot - 2
 
