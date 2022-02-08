@@ -12,7 +12,7 @@ A Website implemented using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack,
 
 2. Snapshot - 2
 
-![Screenshot 1]()
+![Screenshot 2022-02-08 214316](https://user-images.githubusercontent.com/94163693/153028883-849406fd-129b-48a1-bd4d-cb12847509fa.png)
 
 ## Things to Download before you proceed
 I used the MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack for this project.
