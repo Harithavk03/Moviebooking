@@ -33,7 +33,7 @@ $ git clone https://github.com/Harithavk03/Moviebooking.git
 2. Installing the dependencies (using terminal):
 
 ```
-$ cd MovieGo
+$ cd Moviebooking
 $ npm install
 
 $ cd backend
