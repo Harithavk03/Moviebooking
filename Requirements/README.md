@@ -54,7 +54,7 @@ Now open another terminal and cd to the MovieGo directory. Run the following cod
 
 `$ npm start`
 
-and you shall see that the website is loaded on your localhost port 3000.
+and you shall see that the website is loaded on your localhost port 4200.
 
 ## Currently Working On
 - Using Bootstrap to make the website responsive.
