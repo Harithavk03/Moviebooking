@@ -59,8 +59,7 @@ and you shall see that the website is loaded on your localhost port 3000.
 ## Currently Working On
 - Using Bootstrap to make the website responsive.
 
-- Different categories of seats with different prices like 'Gold - Rs. 150', 'Silver - Rs. 100' and 'Regular - Rs. 50'.
-
+- Different categories of seats with different prices like 'Platinum – Rs.250', 'Economy – Rs.150'.
 - ReactJS Pagination.
 
 - Users can book multiple seats at the same time.
